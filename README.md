@@ -39,3 +39,15 @@ I am interested in the design of web applications encompassing all the attribute
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Mdzluis&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mdzluis)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Mdzluis&theme=material-palenight)](https://github.com/Mdzluis)
+</div>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Mdzluis/Mdzluis/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+

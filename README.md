@@ -27,3 +27,15 @@ I am interested in the design of web applications encompassing all the attribute
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25"/> Connect with me
+
+<a href="https://www.instagram.com/lemlz2007?igsh=MnNqNHdybjM4YXlh&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
+</a>
+<a href="https://www.linkedin.com/in/luis-mendoza-5775a7290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+</a>
+<a href="https://wa.me/584128800749">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+

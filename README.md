@@ -45,9 +45,5 @@ I am interested in the design of web applications encompassing all the attribute
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Mdzluis&theme=material-palenight)](https://github.com/Mdzluis)
 </div>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Mdzluis/Mdzluis/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
 
